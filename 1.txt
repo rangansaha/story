@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello,twist here
+=======
+wassup boy
+>>>>>>> twist
